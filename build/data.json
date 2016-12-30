@@ -1,0 +1,57 @@
+{
+	"userInfo": [{
+		"username": "taq",
+		"psw": 123456,
+		"isLogin": false,
+		"isChoose": true,
+		"isVote": false,
+		"chooseDishInfo": [{
+			"name": "菜名1",
+			"price": 16
+		}, {
+			"name": "菜名3",
+			"price": 16
+		}],
+		"voteDishInfo": [{
+			"name": "菜名1",
+			"price": 16
+		}, {
+			"name": "菜名2",
+			"price": 16
+		}]
+	}, {
+		"username": "zuolei",
+		"psw": 123456,
+		"isLogin": false,
+		"isChoose": true,
+		"isVote": false
+	}, {
+		"username": "fengxuemiao",
+		"psw": 123456,
+		"isLogin": false,
+		"isChoose": true,
+		"isVote": false
+	}, {
+		"username": "zhangrui",
+		"psw": 123456,
+		"isLogin": false,
+		"isChoose": true,
+		"isVote": false
+	}],
+	"dishInfo": [{
+		"name": "菜名1",
+		"price": 16
+	}, {
+		"name": "菜名2",
+		"price": 16
+	}, {
+		"name": "菜名3",
+		"price": 16
+	}, {
+		"name": "菜名4",
+		"price": 16
+	}, {
+		"name": "菜名5",
+		"price": 16
+	}]
+}
